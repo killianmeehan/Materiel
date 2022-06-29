@@ -1,0 +1,1 @@
+The following depository contains a series (hopefully) of "tutorials" regaring modules and libraries of python encountered while studying
